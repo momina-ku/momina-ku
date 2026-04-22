@@ -1,13 +1,13 @@
 # Momina Nadeem
 
 **Financial Mathematics · University of Karachi**  
-Karachi, Pakistan · [LinkedIn](www.linkedin.com/in/momina-nadeem-pk) · mominanadeem.pk@gmail.com
+Karachi, Pakistan · [LinkedIn](www.linkedin.com/in/momina-nadeem-pk) · [Gmail](mominanadeem.pk@gmail.com)
 
 ---
 
 ## About
 
-I am a 7th-semester Financial Mathematics student at the University of Karachi, with a focus on data analysis and quantitative methods. My academic foundation — probability, statistics, econometrics, and numerical methods — gives me the context to work with financial data meaningfully, not just mechanically.
+I am a 7th-semester Financial Mathematics student at the University of Karachi, with a focus on data analysis and quantitative methods. My academic foundation probability, statistics, econometrics, and numerical methods gives me the context to work with financial data meaningfully, not just mechanically.
 
 I work with Python for data exploration and visualization, and Excel for financial analysis and modeling. I am currently building projects that apply these skills to real financial datasets, particularly within the Pakistani market context.
 
