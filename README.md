@@ -1,50 +1,41 @@
-# Momina Nadeem
+## Hi, I'm Momina 👋
 
-**Financial Mathematics · University of Karachi**  
-Karachi, Pakistan · [LinkedIn](www.linkedin.com/in/momina-nadeem-pk) · [Gmail](mominanadeem.pk@gmail.com)
+I'm a Financial Mathematics student at the University of Karachi (final year), deeply interested in data analysis and what financial data can actually tell you when you dig into it the right way.
 
----
-
-## About
-
-I am a 7th-semester Financial Mathematics student at the University of Karachi, with a focus on data analysis and quantitative methods. My academic foundation probability, statistics, econometrics, and numerical methods gives me the context to work with financial data meaningfully, not just mechanically.
-
-I work with Python for data exploration and visualization, and Excel for financial analysis and modeling. I am currently building projects that apply these skills to real financial datasets, particularly within the Pakistani market context.
+My degree gives me a strong base in probability, statistics, econometrics, and numerical methods. I pair that with hands-on Python work —Pandas, NumPy, Matplotlib, Seaborn and Excel for financial modeling. I care a lot about making data make sense, not just running code on it.
 
 ---
 
-## Technical Skills
+### 🛠️ What I work with
 
-**Data Analysis & Visualization**
-Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
-
-**Finance & Modeling**
-Microsoft Excel · Financial Modeling · Statistical Analysis · Econometrics
-
-**Currently developing**
-Time Series Analysis · Exploratory Data Analysis · Git & Version Control
+- **Python** — Pandas, NumPy, Matplotlib, Seaborn
+- **Excel** — financial analysis & modeling
+- **Jupyter Notebook** — where most of my work lives
 
 ---
 
-## Projects
+### 📂 Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 📊 PSX Stock EDA | Trend and return analysis on Pakistan Stock Exchange data | Python, Pandas, Seaborn |
-| 📉 Inflation Visualizer | CPI trend visualization using SBP open data | Python, Matplotlib |
-| 🧮 Loan Amortization Tool | Structured payment and interest breakdown | Python, Excel |
+| Project | What it's about |
+|---------|----------------|
+| 📊 PSX Stock EDA | Exploring price trends & returns in Pakistan's stock market |
+| 📉 Pakistan Inflation Visualizer | Breaking down CPI trends from SBP open data |
+| 🧮 Loan Amortization Tool | Payment schedules and interest clear and clean |
 
-*Projects are currently in development — check back soon.*
-
----
-
-## Education
-
-**University of Karachi** — B.S. Financial Mathematics  
-2022 – Present (7th Semester)
-
-Relevant coursework: Financial Calculus · Probability & Statistics · Numerical Methods · Econometrics · Time Series Analysis
+Projects are in progress — more coming soon.
 
 ---
 
-*Open to collaborating on data analysis or finance-related projects.*
+### 📌 Currently learning
+Time series analysis, building visualizations that actually communicate something, and getting better at documenting my work properly.
+
+---
+
+### 🤝 Open to
+Collaborating on data or finance-related projects · Internship opportunities in Karachi · Connecting with people working in data, finance, or FinTech.
+
+Feel free to reach out — always happy to connect!
+
+
+
+
