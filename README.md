@@ -2,7 +2,7 @@
 
 I'm a Financial Mathematics student at the University of Karachi (final year), deeply interested in data analysis and what financial data can actually tell you when you dig into it the right way.
 
-My degree gives me a strong base in probability, statistics, econometrics, and numerical methods. I pair that with hands-on Python work —Pandas, NumPy, Matplotlib, Seaborn and Excel for financial modeling. I care a lot about making data make sense, not just running code on it.
+My degree gives me a strong base in probability, statistics, econometrics, and numerical methods. I pair that with hands-on Python work Pandas, NumPy, Matplotlib, Seaborn and Excel for financial modeling. I care a lot about making data make sense, not just running code on it.
 
 ---
 
